@@ -8,5 +8,5 @@ Main purpose of this Repository is to help people developing skill in Data struc
 | Contains Duplicate  | [C](https://github.com/shyamgupta200385/LeetCode/tree/main/C/Contains_Duplicate.c), [python3](https://github.com/shyamgupta200385/LeetCode/tree/main/python3/Contains_Duplicate.py)|![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | [LeetCode](https://leetcode.com/problems/contains-duplicate) |
 | First Missing Positive | [C++](https://github.com/shyamgupta200385/LeetCode/tree/main/C++/First_Missing_Positive.cpp) | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | [LeetCode](https://leetcode.com/problems/first-missing-positive) |
 | Sort Array By Parity | [C++](https://github.com/shyamgupta200385/LeetCode/tree/main/C++/Sort_Array_By_Parity.cpp) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | [LeetCode](https://leetcode.com/problems/sort-array-by-parity)|
-
+| Binary Gap | [C++](https://github.com/shyamgupta200385/LeetCode/tree/main/C++/Binary_Gap.cpp) | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | [LeetCode](https://leetcode.com/problems/binary-gap) |
 
