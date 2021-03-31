@@ -5,7 +5,7 @@ Main purpose of this Repository is to help people developing skill in Data struc
 
 | Problem Name             | Languages           | Difficulty | :link:    | 
 | ------------------------ |:-------------------:| ---------- |:-----:    |
-| Contains Duplicate  | [C](https://github.com/shyamgupta200385/LeetCode/tree/main/C/Contains_Duplicate.c) |![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | [LeetCode](https://leetcode.com/problems/contains-duplicate) |
+| Contains Duplicate  | [C](https://github.com/shyamgupta200385/LeetCode/tree/main/C/Contains_Duplicate.c), [python3](https://github.com/shyamgupta200385/LeetCode/tree/main/python3/Contains_Duplicate.py)|![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) | [LeetCode](https://leetcode.com/problems/contains-duplicate) |
 | First Missing Positive | [C] | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) | [LeetCode](https://leetcode.com/problems/first-missing-positive) |
 
 
