@@ -1,5 +1,6 @@
-# LeetCode Problem Statment and solution (accepted one) with the link to try yourself. 
-Main purpose of this Repository is to help people developing skill in Data structure and algorithm. For each problem you can write an alternative solution as well using the problem link. If you are beginner then first try the solution on local IDE to compile and debug, just to understand the felow and logic.
+# LeetCode solutions (accepted one) with the link to try yourself. 
+For each problem you can write an alternative solution as well using the problem link. 
+If you are beginner then first try the solution on local IDE to compile and debug, just to understand the flow and logic.
 
 # Link : https://www.leetcode.com/
 
